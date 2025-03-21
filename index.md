@@ -1,7 +1,9 @@
 # KLA - 2D platformer
 
-hello 
+## Team:
+- Kurt Kimura
+- Amanda Nitta
+- Lloyd Sanderson 
 
-I am testing
 
 
