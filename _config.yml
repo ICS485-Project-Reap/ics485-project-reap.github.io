@@ -20,14 +20,15 @@
 
 title: KLA
 description: video game
-google_analytics:
+remote_theme: pages-themes/cayman
 show_downloads: false
-theme: jekyll-theme-cayman
+google_analytics:
 github:
   is_project_page: true
   repository_url: https://github.com/ICS485-Project-Reap/ics485-project-reap.github.io
 gems:
   - jekyll-mentions
+
 
 
 
