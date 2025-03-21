@@ -18,6 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# title: KLA
+# description: video game
+# remote_theme: pages-themes/cayman
+# show_downloads: false
+# google_analytics:
+# github:
+#   is_project_page: true
+#   repository_url: https://github.com/ICS485-Project-Reap/ics485-project-reap.github.io
+# gems:
+#   - jekyll-mentions
+
 title: KLA
 description: video game
 remote_theme: pages-themes/tactile
@@ -26,8 +37,10 @@ google_analytics:
 github:
   is_project_page: true
   repository_url: https://github.com/ICS485-Project-Reap/ics485-project-reap.github.io
-gems:
+plugins:
   - jekyll-mentions
+  - jekyll-remote-theme
+
 
 
 
