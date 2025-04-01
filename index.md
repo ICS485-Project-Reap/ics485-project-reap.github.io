@@ -6,15 +6,13 @@ With the continued inspiration from the 2D platformer.
 
 # Development Process 
 
-## Parts of Game
+## Parts of Game Sketch
 
 ## Functionality 
 
 ## Storyline 
 
 ## Location 
-
-## 
 
 ## Level Design 
 
