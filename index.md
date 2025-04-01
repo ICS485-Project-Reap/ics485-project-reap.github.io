@@ -8,11 +8,11 @@ Initially, we all had came together with different ideas between an interactive 
 
 # Motivation
 
-During the whole process we are interest
+
 
 ## Parts of Game Sketch
 
-<img width="400px" class="rounded float-start pe-4" src="../process_pics/2d_platformer">
+<img width="400px" class="rounded float-start pe-4" src="../process_pics/initial_brainstorm.png">
 
 ## Functionality 
 
