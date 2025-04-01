@@ -2,7 +2,25 @@
 
 # Motivation
 
+With the continued inspiration from the 2D platformer. 
+
 # Development Process 
+
+## Parts of Game
+
+## Functionality 
+
+## Storyline 
+
+## Location 
+
+## 
+
+## Level Design 
+
+## Background Design 
+
+## Character Design
 
 
 # Project Management
