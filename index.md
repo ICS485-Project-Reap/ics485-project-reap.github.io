@@ -2,11 +2,12 @@
 
 # Motivation
 
-
 # Development Process 
 
 
 # Project Management
+
+[Trello Board Link](https://trello.com/b/PGbFmQW9/game-design-spring-2025)
 
 
 # Game
@@ -17,5 +18,5 @@
 
 ## Team:
 - Kurt Kimura
-- Amanda Nitta
-- Lloyd Sanderson 
+- Amanda Nitta 
+- Lloyd Sanderson
