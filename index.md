@@ -12,7 +12,7 @@ Initially, we all had came together with different ideas between an interactive 
 
 ## Parts of Game Sketch
 
-<img width="400px" class="rounded float-start pe-4" src="../progress_pics/initial_brainstorm.png">
+<img width="400px" class="rounded float-start pe-4" src="/progress_pics/initial_brainstorm.png">
 
 ## Functionality 
 
