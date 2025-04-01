@@ -1,6 +1,6 @@
 # KLA - 2D platformer
 
-This prpject is being updated and maintained using 
+This project is being updated and maintained using 
 
 # Inital Ideas
 
@@ -12,7 +12,7 @@ Initially, we all had came together with different ideas between an interactive 
 
 ## Parts of Game Sketch
 
-<img width="400px" class="rounded float-start pe-4" src="../process_pics/initial_brainstorm.png">
+<img width="400px" class="rounded float-start pe-4" src="../progress_pics/initial_brainstorm.png">
 
 ## Functionality 
 
