@@ -59,15 +59,14 @@ As a piece of inspiration, one of the levels from shovel night was analyzed.
 
 ## Updated Functionality
 
-<img width="500px" class="rounded float-start pe-4" src="/progress_pics/nakasendo_road.png">
-
-<img width="500px" class="rounded float-start pe-4" src="/progress_pics/inspiration_background.png">
-
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/functionality_2.jpg">
 
 ## Location 
 
 
-<img width="500px" class="rounded float-start pe-4" src="/progress_pics/functionality_2.jpg">
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/nakasendo_road.png">
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/inspiration_backgrounds.png">
 
 ## Level Design 
 
