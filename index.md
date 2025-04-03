@@ -59,10 +59,13 @@ As a piece of inspiration, one of the levels from shovel night was analyzed.
 
 ## Updated Functionality
 
+As the functionality is detailed and the storyline is going to be primarily communicated through semantics - the functionality was further revised and updated.
+
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/functionality_2.jpg">
 
 ## Location 
 
+With the inspiration of flowers, this led to the consideration of location to be in Japan as the cherry blossoms are beautiful. Therefore, as a person is traveling through the scene the goal was to see different places and therefore the Nakasendo road plays a role in creating storyline as a person travels.
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/nakasendo_road.png">
 
@@ -85,6 +88,8 @@ There were several backgrounds created each made up of several layers. Additiona
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/mountain_scene.png">
 
 ## Character Design
+
+The character was developed with the idea that the person was a traveler.
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/character_colored_in.png">
 
