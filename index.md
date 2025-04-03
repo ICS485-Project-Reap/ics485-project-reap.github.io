@@ -18,6 +18,8 @@ Our goal is to create a 2D platformer where as a person progresses through a sce
 
 # Development
 
+There were several different steps in planning that were taken to ensure that everyone was on the same page throughout the development process.
+
 ## Parts of Game Sketch
 
 To gain a sense of the overall game, the storyline, scene and functionality were mapped relative to world, seed/hook, emotion, goal, suspense, obstacle, interaction/feedback, rules and levels.
@@ -56,7 +58,7 @@ As the player progresses through the levels there are obstacles that are necessa
 
 There were several backgrounds created each made up of several layers. Additional layers to be layered on top was also created to create differences in the scences. In the images below contain some example of the scenes and the possibly scenes that could be created with the different layers.
 
-<img width="500px" class="rounded float-start pe-4" src="/progress_pics/all_scenes.png">
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/all_scences.png.png">
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/cherry_blossom_scene.png">
 
