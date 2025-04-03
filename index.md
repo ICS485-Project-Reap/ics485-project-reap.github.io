@@ -33,7 +33,23 @@ There was also the presentation of different ways the players functionality coul
 ## Updated Parts of Game
 
 
+
 ## Storyline 
+
+Basic Output Story of the Game:
+
+Protagonist name: Mikhael?
+Masters' name: Darrius and Elena (Married Couple)
+
+Getter: In a nation, reaped with chaos, despair and hopelessness, will your blade carve a new destiny, or fall victim to the threads of fate?
+
+In a nation gripped by revolutionary fervor and untamed warfare, you are an indentured servant whose fate was nearly sealed on the bloodstained fields of your crumbling farm. From the farmlands that gave you life and hope now destroyed by the everlasting tides of war, ruining everything you once called home. Your only respite now is to move to the capitol, where all people live free from the tyranny of the leaders.
+
+Hoping that one day you will find peace, freedom and revert back to the better life you once knew, you embark on the journey that will either empower or enfeeble you. Armed with your battered scythe - a symbol of both hope and freedom and the inevitable harvest of change, you represent your power amongst the encroaching forces of the Anti-Revolution army. As you fight these forces a mysterious power, unlike anything you have ever experienced controls your every movement. A balanced harmony, a swift strike, a sure end. The Flow State, a fleeting surge that lets you leap between enemies with surgical precision. Yet with every chain of perfectly timed strikes, the pressure mounts, the window to execute the next decisive blow narrows, echoing the tightening grip of a nation in upheaval.
+
+As you traverse battle-scarred territories, your journey becomes an unforeseen catalyst. Every enemy vanquished, every move made in the heat of combat shifts the very heart of the government - an ever-moving capitol, which houses the revolutionary headquarters, serves to be slightly out of reach for the protagonist, dragging with them a sense of despair to not get this amnesty. With your ever-building courage, proceed with determination and fight to gain your right for freedom.
+
+Encountering diverse footmen, powerful leaders, generals, lieutenants, and ultimate tyrants, you carve your destiny and shape a path for a future that would never have been thought to been accomplished by a servant such as yourself. In chaotic crucible of war, loyalty, and fate, your solitary battle becomes a test of precision, resolve, and the haunting realization that sometimes the greatest enemies lie within yourself. Rebel against the head, step into your Flow, and decide whether you will be the liberator that reclaims the nations soul, or the inadvertent harbinger of its downfall.
 
 ## 2D Platformer Inspiration
 
@@ -43,10 +59,15 @@ As a piece of inspiration, one of the levels from shovel night was analyzed.
 
 ## Updated Functionality
 
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/nakasendo_road.png">
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/inspiration_background.png">
 
 
 ## Location 
 
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/functionality_2.jpg">
 
 ## Level Design 
 
