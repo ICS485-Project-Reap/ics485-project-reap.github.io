@@ -30,7 +30,18 @@ There was also the presentation of different ways the players functionality coul
 
 ## Updated Parts of Game
 
+
 ## Storyline 
+
+## 2D Platformer Inspiration
+
+As a piece of inspiration, one of the levels from shovel night was analyzed.
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/2d_platformer_inspiration.png">
+
+## Updated Functionality
+
+
 
 ## Location 
 
@@ -39,18 +50,25 @@ There was also the presentation of different ways the players functionality coul
 
 As the player progresses through the levels there are obstacles that are necessary to overcome.
 
-<img width="500px" class="rounded float-start pe-4" src="/progress_pics/stages_1_2.png">
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/stage_1_2.png">
 
 ## Background Design 
 
+There were several backgrounds created each made up of several layers. Additional layers to be layered on top was also created to create differences in the scences. In the images below contain some example of the scenes and the possibly scenes that could be created with the different layers.
 
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/all_scenes.png">
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/cherry_blossom_scene.png">
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/mountain_scene.png">
 
 ## Character Design
 
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/character_colored_in.png">
 
 # Project Management
 
-[Trello Board Link](https://trello.com/b/PGbFmQW9/game-design-spring-2025)
+All communication was on discord and meetings were once a week to assign tasks. The [Trello Board](https://trello.com/b/PGbFmQW9/game-design-spring-2025) was used to keep a record of overall progress.
 
 
 # Game
