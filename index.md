@@ -78,7 +78,7 @@ As the player progresses through the levels there are obstacles that are necessa
 
 There were several backgrounds created each made up of several layers. Additional layers to be layered on top was also created to create differences in the scences. In the images below contain some example of the scenes and the possibly scenes that could be created with the different layers.
 
-<img width="500px" class="rounded float-start pe-4" src="/progress_pics/all_scences.png.png">
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/all_scences.png">
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/cherry_blossom_scene.png">
 
