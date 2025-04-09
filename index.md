@@ -10,11 +10,11 @@
 
 # Inital Ideas
 
-Initially, we all had came together with different ideas between an interactive story similar to Minecraft, a puzzle game of looking at diffent places and a 2D platformer as the basis. After our initial meeting, we had decided we could incorporate the main components of all our ideas into a 2D platformer. 
+Initially, we all had came together with different ideas between an interactive story similar to Minecraft, a puzzle game of looking at diffent places and a 2D platformer. After our initial meeting, we had decided we could incorporate the main components of all our ideas into a 2D platformer. 
 
 # Motivation
 
-Our goal is to create a 2D platformer where as a person progresses through a scene, they encounter enemies and a boss to defeat to progress through the level to the next. 
+Our goal is to create a 2D platformer where as a person progresses through a scene, they encounter and defeat enemies and a boss to progress through the levels. 
 
 # Development
 
@@ -26,7 +26,7 @@ To gain a sense of the overall game, the storyline, scene and functionality were
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/initial_brainstorm.png">
 
-There was also the presentation of different ways the players functionality could be implemented.
+There was also the presentation of the different ways the players functionality could be implemented.
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/functionality_options.png">
 
@@ -38,7 +38,7 @@ There was also the presentation of different ways the players functionality coul
 
 Basic Output Story of the Game:
 
-Protagonist name: Mikhael?
+Protagonist name: Mikhael
 Masters' name: Darrius and Elena (Married Couple)
 
 Getter: In a nation, reaped with chaos, despair and hopelessness, will your blade carve a new destiny, or fall victim to the threads of fate?
@@ -65,7 +65,7 @@ As the functionality is detailed and the storyline is going to be primarily comm
 
 ## Location 
 
-With the inspiration of flowers, this led to the consideration of location to be in Japan as the cherry blossoms are beautiful. Therefore, as a person is traveling through the scene the goal was to see different places and therefore the Nakasendo road plays a role in creating storyline as a person travels.
+With the inspiration of flowers, this led to the consideration of context to be in Japan as the cherry blossoms are beautiful. Therefore, as a person is traveling through the scene the goal was to see different places and therefore the Nakasendo road plays a role in creating storyline as a person travels.
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/nakasendo_road.png">
 
@@ -73,9 +73,11 @@ With the inspiration of flowers, this led to the consideration of location to be
 
 ## Level Design 
 
-As the player progresses through the levels there are obstacles that are necessary to overcome.
+As the player progresses through the levels there are obstacles that are necessary to overcome. Below is Level 1 and 2 seperately
 
-<img width="500px" class="rounded float-start pe-4" src="/progress_pics/stage_1_2.png">
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/level_1.png">
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/level_2.jpeg">
 
 ## Background Design 
 
@@ -101,10 +103,31 @@ All communication was on discord and meetings were once a week to assign tasks. 
 # Game
 
 
+
+## Contributions
+Everyone contributed when needed to help fine-tune ideas but the leads for each portion is below:
+
+### Kurt Kimura
+- Character Design
+- Player movement
+- Flow state code
+
+### Amanda Nitta
+- Character Colors 
+- Background Designs
+- Score code
+- Website
+
+### Lloyd Sanderson
+- Level Design
+- Story creation
+- Enemies movement
+
 # Future Work
 
 
+
 ## Team:
-- Kurt Kimura
-- Amanda Nitta 
-- Lloyd Sanderson
+- [Kurt Kimura](https://kurtkimura02.github.io/)  (Senior ICS Student)
+- [Amanda Nitta](https://www.linkedin.com/in/amandanitta/) (Graduate Student) 
+- [Lloyd Sanderson](https://lsanderson1.github.io/) (Senior ICS Student)
