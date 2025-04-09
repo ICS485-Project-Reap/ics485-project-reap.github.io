@@ -102,7 +102,7 @@ All communication was on discord and meetings were once a week to assign tasks. 
 
 # Game
 
-[![Watch the video](https://www.youtube.com/watch?v=mxoMdWvaEEQ/0.jpg)](https://www.youtube.com/watch?v=mxoMdWvaEEQ)
+[![Watch the video](Cherry_Blossoms_thumbnail.png)](https://www.youtube.com/watch?v=mxoMdWvaEEQ)
 
 ## Contributions
 Everyone contributed when needed to help fine-tune ideas but the leads for each portion are below:
