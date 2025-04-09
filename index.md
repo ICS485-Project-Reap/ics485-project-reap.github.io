@@ -103,7 +103,10 @@ All communication was on discord and meetings were once a week to assign tasks. 
 # Game
 Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or this link
 
-[![Watch the video](progress_pics/Cherry_Blossoms_thumbnail.png)](https://www.youtube.com/watch?v=mxoMdWvaEEQ)
+## Prototype of Game
+
+[![Watch the video](progress_pics/Cherry_Blossoms_thumbnail.png)](https://www.youtube.com/watch?v=d15Y0lfNLT4)
+
 
 ## Contributions
 Everyone contributed when needed to help fine-tune ideas but the leads for each portion are below:
