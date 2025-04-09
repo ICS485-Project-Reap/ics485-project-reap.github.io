@@ -101,7 +101,7 @@ All communication was on discord and meetings were once a week to assign tasks. 
 
 
 # Game
-Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or this link
+Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or this [link](https://www.youtube.com/watch?v=d15Y0lfNLT4)
 
 ## Prototype of Game
 
