@@ -122,7 +122,7 @@ Everyone contributed when needed to help fine-tune ideas but the leads for each 
 ### Lloyd Sanderson
 - Level Design
 - Story creation
-- Enemies movement
+- Enemies movement code
 
 # Future Work
 
