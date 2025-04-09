@@ -105,7 +105,7 @@ All communication was on discord and meetings were once a week to assign tasks. 
 
 
 ## Contributions
-Everyone contributed when needed to help fine-tune ideas but the leads for each portion is below:
+Everyone contributed when needed to help fine-tune ideas but the leads for each portion are below:
 
 ### Kurt Kimura
 - Character Design
