@@ -129,5 +129,5 @@ Everyone contributed when needed to help fine-tune ideas but the leads for each 
 
 ## Team:
 - [Kurt Kimura](https://kurtkimura02.github.io/)  (Senior ICS Student)
-- [Amanda Nitta](https://www.linkedin.com/in/amandanitta/) (Graduate Student) 
+- [Amanda Nitta](https://www.linkedin.com/in/amandanitta/) (ICS Graduate Student) 
 - [Lloyd Sanderson](https://lsanderson1.github.io/) (Senior ICS Student)
