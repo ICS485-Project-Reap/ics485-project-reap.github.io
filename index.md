@@ -95,15 +95,29 @@ The character was developed with the idea that the person was a traveler.
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/character_colored_in.png">
 
+## Enemies Designs
+
+The idea behind the enemies is that they are similar to a blob or a slimey thing that moves around in the scene. 
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/enemies_designs.png">
+
+## Bosses Designs
+
+The idea behind the boss designs is that they have multiple different colors to give an emotion that they are similar to a combination of all the enemies that they encountered
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/boss_designs.png">
+
+
 # Project Management
 
 All communication was on discord and meetings were once a week to assign tasks. The [Trello Board](https://trello.com/b/PGbFmQW9/game-design-spring-2025) was used to keep a record of overall progress.
 
 
 # Game
-Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or this [link](https://www.youtube.com/watch?v=d15Y0lfNLT4)
+Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or the link.
 
 ## Prototype of Game
+[Link to Prototype](https://www.youtube.com/watch?v=d15Y0lfNLT4)
 
 [![Watch the video](progress_pics/Cherry_Blossoms_thumbnail.png)](https://www.youtube.com/watch?v=d15Y0lfNLT4)
 
@@ -121,6 +135,7 @@ Everyone contributed when needed to help fine-tune ideas but the leads for each 
 - Background Designs
 - Score code
 - Website
+- Enemies and Boss Designs
 
 ### Lloyd Sanderson
 - Level Design
