@@ -123,7 +123,7 @@ Note: GitHub Markdown does not support playing videos directly, so feel free to 
 
 
 ## Contributions
-Everyone contributed when needed to help fine-tune ideas but the leads for each portion are below:
+Everyone contributed when needed to help revise ideas but the leads for each portion are below:
 
 ### Kurt Kimura
 - Character Design
