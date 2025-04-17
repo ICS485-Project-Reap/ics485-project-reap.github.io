@@ -150,6 +150,7 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Character Design
 - Player movement
 - Flow state code
+- Aesprite for character movement
 
 ### Amanda Nitta
 - Character Colors 
