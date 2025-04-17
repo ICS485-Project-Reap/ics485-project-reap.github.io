@@ -86,12 +86,11 @@ There were several backgrounds created each made up of several layers. Additiona
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/all_scences.png">
 
 
-<span>
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/cherry_blossom_scene.png", style="display:inline-block; vertical-align: middle;" />
+<div style="text-align: center;">
+  <img width="300px" style="display:inline-block; vertical-align: middle; border-radius: 8px; margin-right: 16px;" src="/progress_pics/cherry_blossom_scene.png" />
+  <img width="300px" style="display:inline-block; vertical-align: middle; border-radius: 8px;" src="/progress_pics/mountain_scene.png" />
+</div>
 
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/mountain_scene.png", style="display:inline-block; vertical-align: middle;" />
-
-</span>
 
 ## Character Design
 
