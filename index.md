@@ -111,15 +111,12 @@ The idea behind the boss designs is that they have multiple different colors to 
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/options_attacks.png">
 
-<div style="display: flex; gap: 4px; align-items: center;">
+<span>
+  <img src="/progress_pics/playerAttackTest1.gif" width="40" height="40" style="display:inline-block; vertical-align: middle;" />
+  <img src="/progress_pics/playerAttackTest2.gif" width="40" height="40" style="display:inline-block; vertical-align: middle;" />
+  <img src="/progress_pics/playerAttackTest3.gif" width="40" height="40" style="display:inline-block; vertical-align: middle;" />
+</span>
 
-<img src="/progress_pics/playerAttackTest1.gif" width="40" height="40" />
-
-<img src="/progress_pics/playerAttackTest2.gif" width="40" height="40" />
-
-<img src="/progress_pics/playerAttackTest3.gif" width="40" height="40" />
-
-</div>
 
 ## Flow State Attack
 
