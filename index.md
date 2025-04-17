@@ -119,7 +119,7 @@ The idea behind the boss designs is that they have multiple different colors to 
 
 ## Flow State Attack
 
-<img width="500px" class="rounded float-start pe-4" src="/progress_pics/playerFlowTestSheet.png">
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/flow_state.png">
 
 <img src="/progress_pics/playerFlowTest.gif" width="40" height="40" />
 
