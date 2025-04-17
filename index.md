@@ -24,11 +24,19 @@ There were several different steps in planning that were taken to ensure that ev
 
 To gain a sense of the overall game, the storyline, scene and functionality were mapped relative to world, seed/hook, emotion, goal, suspense, obstacle, interaction/feedback, rules and levels.
 
+<div style="text-align: center;">
+
 <img width="200px" class="rounded float-start pe-4" src="/progress_pics/initial_brainstorm.png">
+
+</div>
 
 There was also the presentation of the different ways the players functionality could be implemented.
 
+<div style="text-align: center;">
+
 <img width="200px" class="rounded float-start pe-4" src="/progress_pics/functionality_options.png">
+
+</div>
 
 ## Updated Parts of Game
 
@@ -55,35 +63,54 @@ Encountering diverse footmen, powerful leaders, generals, lieutenants, and ultim
 
 As a piece of inspiration, one of the levels from shovel night was analyzed.
 
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/2d_platformer_inspiration.png">
+
+</div>
 
 ## Updated Functionality
 
 As the functionality is detailed and the storyline is going to be primarily communicated through semantics - the functionality was further revised and updated.
 
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/functionality_2.jpg">
+
+</div>
 
 ## Location 
 
 With the inspiration of flowers, this led to the consideration of context to be in Japan as the cherry blossoms are beautiful. Therefore, as a person is traveling through the scene the goal was to see different places and therefore the Nakasendo road plays a role in creating storyline as a person travels.
 
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/nakasendo_road.png">
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/inspiration_backgrounds.png">
+
+</div>
 
 ## Level Design 
 
 As the player progresses through the levels there are obstacles that are necessary to overcome. Below is Level 1 and 2 seperately
 
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_1.png">
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_2.jpeg">
+
+</div>
 
 ## Background Design 
 
 There were several backgrounds created each made up of several layers. Additional layers to be layered on top was also created to create differences in the scences. In the images below contain some example of the scenes and the possibly scenes that could be created with the different layers.
 
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/all_scences.png">
+</div>
 
 
 <div style="text-align: center;">
@@ -104,17 +131,27 @@ The character was developed with the idea that the person was a traveler.
 
 The idea behind the enemies is that they are similar to a blob or a slimey thing that moves around in the scene. 
 
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/enemies_designs.png">
+<div style="text-align: center;">
+    <img width="300px" class="rounded float-start pe-4" src="/progress_pics/enemies_designs.png">
+</div>
 
 ## Bosses Designs
 
 The idea behind the boss designs is that they have multiple different colors to give an emotion that they are similar to a combination of all the enemies that they encountered
 
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/boss_designs.png">
+
+</div>
 
 ## Attack Options
 
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/options_attacks.png">
+
+</div>
 
 <span>
   <img src="/progress_pics/playerAttackTest1.gif" width="100" height="100" style="display:inline-block; vertical-align: middle;" />
@@ -125,7 +162,11 @@ The idea behind the boss designs is that they have multiple different colors to 
 
 ## Flow State Attack
 
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/flow_state.png">
+
+</div>
 
 <img src="/progress_pics/playerFlowTest.gif" width="40" height="40" />
 
