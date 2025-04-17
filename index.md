@@ -24,11 +24,11 @@ There were several different steps in planning that were taken to ensure that ev
 
 To gain a sense of the overall game, the storyline, scene and functionality were mapped relative to world, seed/hook, emotion, goal, suspense, obstacle, interaction/feedback, rules and levels.
 
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/initial_brainstorm.png">
+<img width="200px" class="rounded float-start pe-4" src="/progress_pics/initial_brainstorm.png">
 
 There was also the presentation of the different ways the players functionality could be implemented.
 
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/functionality_options.png">
+<img width="200px" class="rounded float-start pe-4" src="/progress_pics/functionality_options.png">
 
 ## Updated Parts of Game
 
