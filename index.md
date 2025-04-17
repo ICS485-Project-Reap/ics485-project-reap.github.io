@@ -123,7 +123,7 @@ There were several backgrounds created each made up of several layers. Additiona
 
 <div style="text-align: center;">
   <img width="300px" src="/progress_pics/cherry_blossom_scene.png" />
-  <img width="300px src="/progress_pics/mountain_scene.png" />
+  <img width="300px" src="/progress_pics/mountain_scene.png" />
 </div>
 
 
