@@ -87,6 +87,10 @@ With the inspiration of flowers, this led to the consideration of context to be 
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/nakasendo_road.png">
 
+</div>
+
+<div style="text-align: center;">
+
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/inspiration_backgrounds.png">
 
 </div>
@@ -98,6 +102,10 @@ As the player progresses through the levels there are obstacles that are necessa
 <div style="text-align: center;">
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_1.png">
+
+</div>
+
+<div style="text-align: center;">
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_2.jpeg">
 
@@ -114,8 +122,8 @@ There were several backgrounds created each made up of several layers. Additiona
 
 
 <div style="text-align: center;">
-  <img width="300px" style="display:inline-block; horizontal-align: middle; border-radius: 8px; margin-right: 16px;" src="/progress_pics/cherry_blossom_scene.png" />
-  <img width="300px" style="display:inline-block; horizontal-align: middle; border-radius: 8px;" src="/progress_pics/mountain_scene.png" />
+  <img width="300px" src="/progress_pics/cherry_blossom_scene.png" />
+  <img width="300px src="/progress_pics/mountain_scene.png" />
 </div>
 
 
