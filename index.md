@@ -113,10 +113,15 @@ The idea behind the boss designs is that they have multiple different colors to 
 
 <img src="/progress_pics/playerAttackTest1.gif" width="40" height="40" />
 
+<img src="/progress_pics/playerAttackTest2.gif" width="40" height="40" />
+
+<img src="/progress_pics/playerAttackTest3.gif" width="40" height="40" />
 
 ## Flow State Attack
 
 <img width="500px" class="rounded float-start pe-4" src="/progress_pics/playerFlowTestSheet.png">
+
+<img src="/progress_pics/playerFlowTest.gif" width="40" height="40" />
 
 # Project Management
 
