@@ -96,7 +96,9 @@ There were several backgrounds created each made up of several layers. Additiona
 
 The character was developed with the idea that the person was a traveler.
 
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/character_colored_in.png">
+<div style="text-align: center;">
+    <img width="300px" class="rounded float-start pe-4" src="/progress_pics/character_colored_in.png">
+</div>
 
 ## Enemies Designs
 
