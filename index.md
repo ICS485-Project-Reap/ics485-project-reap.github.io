@@ -85,9 +85,13 @@ There were several backgrounds created each made up of several layers. Additiona
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/all_scences.png">
 
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/cherry_blossom_scene.png">
 
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/mountain_scene.png">
+<span>
+<img width="300px" class="rounded float-start pe-4" src="/progress_pics/cherry_blossom_scene.png", style="display:inline-block; vertical-align: middle;" />
+
+<img width="300px" class="rounded float-start pe-4" src="/progress_pics/mountain_scene.png", style="display:inline-block; vertical-align: middle;" />
+
+</span>
 
 ## Character Design
 
@@ -112,9 +116,9 @@ The idea behind the boss designs is that they have multiple different colors to 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/options_attacks.png">
 
 <span>
-  <img src="/progress_pics/playerAttackTest1.gif" width="40" height="40" style="display:inline-block; vertical-align: middle;" />
-  <img src="/progress_pics/playerAttackTest2.gif" width="40" height="40" style="display:inline-block; vertical-align: middle;" />
-  <img src="/progress_pics/playerAttackTest3.gif" width="40" height="40" style="display:inline-block; vertical-align: middle;" />
+  <img src="/progress_pics/playerAttackTest1.gif" width="100" height="100" style="display:inline-block; vertical-align: middle;" />
+  <img src="/progress_pics/playerAttackTest2.gif" width="100" height="100" style="display:inline-block; vertical-align: middle;" />
+  <img src="/progress_pics/playerAttackTest3.gif" width="100" height="100" style="display:inline-block; vertical-align: middle;" />
 </span>
 
 
