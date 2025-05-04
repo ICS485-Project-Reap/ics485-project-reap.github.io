@@ -191,7 +191,7 @@ These designs were inspired by Lieuteants.
 
 ## Attack Options
 
-There were several different designs that were considered for the enemies
+There were three proposed concepts for the attack for the enemies as shown in details. The animation for the attack that was chosen was Option 2.
 
 <details>
 
