@@ -136,6 +136,8 @@ There were several backgrounds created each made up of several layers. Additiona
 
 </details>
 
+The final designs were created with pixel art, aesprite software.
+
 
 # Asset Creation
 
