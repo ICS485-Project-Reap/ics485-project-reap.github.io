@@ -233,7 +233,7 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Player movement
 - Flow state code
 - Sprite for character
-- Revision of Enenmies and Boss Designs and Sprite
+- Revision of Enemies and Boss Designs and Sprite
 - Sprites of character, enemies, and boss
 - Final version of background
 - Implement Sound
