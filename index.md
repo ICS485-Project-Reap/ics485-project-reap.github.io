@@ -115,9 +115,7 @@ As the player progresses through the levels there are obstacles that are necessa
 
 ## Background Design 
 
-There were several backgrounds created each made up of several layers. Additional layers to be layered on top was also created to create differences in the scences. In the images below contain some example of the scenes and the possibly scenes that could be created with the different layers.
-
-The intial designs were done using Procreate 
+There were several backgrounds created each made up of several layers. Additional layers were used to create differences in the scences. In the images in the details section contain examples of the possible scenes that could be made with the layers.
 
 <details>
 <div style="text-align: center;">
