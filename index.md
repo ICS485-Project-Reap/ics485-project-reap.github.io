@@ -143,6 +143,8 @@ The idea behind the enemies is that they are similar to a blob or a slimey thing
     <img width="300px" class="rounded float-start pe-4" src="/progress_pics/enemies_designs.png">
 </div>
 
+
+<details>
 ## Bosses Designs
 
 The idea behind the boss designs is that they have multiple different colors to give an emotion that they are similar to a combination of all the enemies that they encountered
@@ -152,6 +154,8 @@ The idea behind the boss designs is that they have multiple different colors to 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/boss_designs.png">
 
 </div>
+
+</details>
 
 ## Attack Options
 
