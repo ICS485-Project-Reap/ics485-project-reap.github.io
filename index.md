@@ -207,6 +207,7 @@ There were three proposed concepts for the attack for the enemies as shown in de
   <img src="/progress_pics/playerAttackTest2.gif" width="300" height="300" style="display:inline-block; vertical-align: middle;" />
 </span> -->
 
+Below is the Sprite sheet for the animation of the Attack
 
 ## Flow State Attack
 
