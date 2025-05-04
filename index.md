@@ -38,8 +38,6 @@ There was also the presentation of the different ways the players functionality 
 
 </div>
 
-## Updated Parts of Game
-
 
 ## Storyline 
 
@@ -135,6 +133,8 @@ The intial designs were done using Procreate
 
 </details>
 
+
+# Asset Creation
 
 ## Character Design
 
