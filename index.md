@@ -4,6 +4,7 @@
 * [Inital Ideas](#inital-ideas)
 * [Motivation](#motivation)
 * [Development](#development)
+* [Asset Creation](#asset-creation)
 * [Project Management](#project-management)
 * [Game](#game)
 * [Future Work](#future-work)
