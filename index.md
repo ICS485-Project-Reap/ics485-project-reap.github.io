@@ -99,8 +99,9 @@ With the inspiration of flowers, this led to the consideration of context to be 
 
 ## Level Design 
 
-As the player progresses through the levels there are obstacles that are necessary to overcome. Below is Level 1 and 2 seperately
+As the player progresses through the levels there are obstacles that are necessary to overcome. Below is Level 1 and 2 seperately in the details tab.
 
+<details>
 <div style="text-align: center;">
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_1.png">
@@ -112,6 +113,7 @@ As the player progresses through the levels there are obstacles that are necessa
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_2.jpeg">
 
 </div>
+</details>
 
 ## Background Design 
 
