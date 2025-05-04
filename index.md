@@ -198,7 +198,7 @@ The idea behind the boss designs is that they have multiple different colors to 
 </details>
 
 ### Draft 2
-These designs were inspired by Lieuteants. 
+These designs were inspired by military Lieuteants. 
 
 
 
