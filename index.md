@@ -1,4 +1,4 @@
-# KLA - 2D platformer
+# REAP
 
 # Table of Contents
 * [Inital Ideas](#inital-ideas)
@@ -7,6 +7,10 @@
 * [Project Management](#project-management)
 * [Game](#game)
 * [Future Work](#future-work)
+
+# Project REAP
+
+(ADD VIDEO HERE)
 
 # Inital Ideas
 
