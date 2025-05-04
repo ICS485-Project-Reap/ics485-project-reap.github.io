@@ -203,13 +203,13 @@ The final attack that the group decided on was option 2 as shown below
 
 ## Flow State Attack
 
-The flow state attack is when the player gets a certain amount of point and then has the potential to activate. The flow state attack is similar to a special move that does more damage. The concept is shown in the details follwoed by the GIF of the motion
+The flow state attack is when the player gets a certain amount of point and then has the potential to activate. The flow state attack is similar to a special move that does more damage. The concept is shown in the details follwoed by the GIF of the motion.
 
 <details>
 
 <div style="text-align: center;">
 
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/flow_state.png">
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/flow_state.png">
 
 </div>
 
