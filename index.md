@@ -218,6 +218,14 @@ There were three proposed concepts for the attack for the enemies as shown in de
 
 Below is the Sprite sheet for the animation of the Attack
 
+<div style="text-align: center;">
+
+<img width="300px" class="rounded float-start pe-4" src="/final_pics/attack_sprite.png">
+
+</div>
+
+</details>
+
 ## Flow State Attack
 
 The flow state attack is when the player gets a certain amount of point and then has the potential to activate. The flow state attack is similar to a special move that does more damage. The concept is shown in the details follwoed by the GIF of the motion.
