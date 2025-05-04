@@ -203,11 +203,9 @@ There were three proposed concepts for the attack for the enemies as shown in de
 
 </details>
 
-The final attack that the group decided on was option 2 as shown below
-
-<span>
+<!-- <span>
   <img src="/progress_pics/playerAttackTest2.gif" width="300" height="300" style="display:inline-block; vertical-align: middle;" />
-</span>
+</span> -->
 
 
 ## Flow State Attack
@@ -225,6 +223,9 @@ The flow state attack is when the player gets a certain amount of point and then
 <img src="/progress_pics/playerFlowTest.gif" width="200" height="200" />
 
 </details>
+
+This is the flow state in the Sprite version.
+
 
 # Project Management
 
