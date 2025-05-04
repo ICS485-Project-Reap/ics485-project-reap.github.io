@@ -154,9 +154,7 @@ The character designs were then translated to pixel art.
     <img width="300px" class="rounded float-start pe-4" src="/final_pics/player_sprite.png">
 </div>
 
-## Enemies Designs
-
-## Draft 1 
+## Enemies Designs Draft
 
 The first draft of enemies were based on simple designs that are cammoflauged with the background.
 
