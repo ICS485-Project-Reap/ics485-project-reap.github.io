@@ -203,21 +203,20 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Character Design
 - Player movement
 - Flow state code
-- Aesprite for character movement
-- Revision of Enenmies and Boss Designs
+- Sprite for character
+- Revision of Enenmies and Boss Designs and Sprite
 - Sprites of character, enemies, and boss
 - Final version of background
 - Implement Sound
 
 ### Amanda Nitta
 - Character Colors 
-- Background Designs
-- Score code
-- Website
+- Background Designs draft
+- Flow State Launch backend code
+- Update Website
 - Enemies and Boss Designs
 - Player character stats code
-- Health recovery
-- Update flow state
+- Health recovery backend code
 - Find Sound Effects
 
 ### Lloyd Sanderson
