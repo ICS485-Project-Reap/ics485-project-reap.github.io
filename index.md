@@ -148,6 +148,8 @@ The character was developed with the idea that the person was a traveler. The de
 
 </details>
 
+## Character Sprite
+
 ## Enemies Designs
 
 ## Draft 1 
@@ -162,14 +164,14 @@ The idea behind the enemies is that they are similar to a blob or a slimey thing
 </div>
 </details>
 
-## Draft 2 
+## Final Enemy Sprite
 
-The second draft of the enemies were based on the inspiration of military personel in uniform.
+The final game sprites were completed with the inspiration of soldiers being the enemies. 
 
-<details>
+<div style="text-align: center;">
+    <img width="300px" class="rounded float-start pe-4" src="/final_pics/enemy_sprite.png">
+</div>
 
-
-</details>
 
 ## Bosses Designs
 
