@@ -144,17 +144,24 @@ The character was developed with the idea that the person was a traveler.
 
 ## Enemies Designs
 
+## Draft 1 
+
+The first draft of enemies were based on simple designs that are cammoflauged with the background.
+
+<details>
 The idea behind the enemies is that they are similar to a blob or a slimey thing that moves around in the scene. 
 
 <div style="text-align: center;">
     <img width="300px" class="rounded float-start pe-4" src="/progress_pics/enemies_designs.png">
 </div>
-
-
+</details>
 
 ## Bosses Designs
 
 ### Draft 1
+
+The design of these drafts were based on simple enemies.
+
 <details>
 The idea behind the boss designs is that they have multiple different colors to give an emotion that they are similar to a combination of all the enemies that they encountered
 
@@ -173,16 +180,22 @@ These designs were inspired by Lieuteants.
 
 ## Attack Options
 
+There were several different designs that were considered for the enemies
+
+<details>
+
 <div style="text-align: center;">
 
 <img width="300px" class="rounded float-start pe-4" src="/progress_pics/options_attacks.png">
 
 </div>
 
+</details>
+
+The final attack that the group decided on was option 2 as shown below
+
 <span>
-  <img src="/progress_pics/playerAttackTest1.gif" width="100" height="100" style="display:inline-block; vertical-align: middle;" />
-  <img src="/progress_pics/playerAttackTest2.gif" width="100" height="100" style="display:inline-block; vertical-align: middle;" />
-  <img src="/progress_pics/playerAttackTest3.gif" width="100" height="100" style="display:inline-block; vertical-align: middle;" />
+  <img src="/progress_pics/playerAttackTest2.gif" width="300" height="300" style="display:inline-block; vertical-align: middle;" />
 </span>
 
 
