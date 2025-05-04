@@ -204,6 +204,10 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Player movement
 - Flow state code
 - Aesprite for character movement
+- Revision of Enenmies and Boss Designs
+- Sprites of character, enemies, and boss
+- Final version of background
+- Implement Sound
 
 ### Amanda Nitta
 - Character Colors 
@@ -211,11 +215,20 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Score code
 - Website
 - Enemies and Boss Designs
+- Player character stats code
+- Health recovery
+- Update flow state
+- Find Sound Effects
 
 ### Lloyd Sanderson
 - Level Design
 - Story creation
 - Enemies movement code
+- Flow state UI 
+- Player Health UI
+- Enemies Stat
+- Enemies inspiration
+- Find Sound Effects
 
 # Future Work
 
