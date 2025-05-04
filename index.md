@@ -41,11 +41,11 @@ There was also the presentation of the different ways the players functionality 
 ## Updated Parts of Game
 
 
-
 ## Storyline 
 
-Basic Output Story of the Game:
+The outline of the story centered in Japan with trying to defeat enemies that the individual encounters
 
+<details>
 Protagonist name: Mikhael
 Masters' name: Darrius and Elena (Married Couple)
 
@@ -58,6 +58,8 @@ Hoping that one day you will find peace, freedom and revert back to the better l
 As you traverse battle-scarred territories, your journey becomes an unforeseen catalyst. Every enemy vanquished, every move made in the heat of combat shifts the very heart of the government - an ever-moving capitol, which houses the revolutionary headquarters, serves to be slightly out of reach for the protagonist, dragging with them a sense of despair to not get this amnesty. With your ever-building courage, proceed with determination and fight to gain your right for freedom.
 
 Encountering diverse footmen, powerful leaders, generals, lieutenants, and ultimate tyrants, you carve your destiny and shape a path for a future that would never have been thought to been accomplished by a servant such as yourself. In chaotic crucible of war, loyalty, and fate, your solitary battle becomes a test of precision, resolve, and the haunting realization that sometimes the greatest enemies lie within yourself. Rebel against the head, step into your Flow, and decide whether you will be the liberator that reclaims the nations soul, or the inadvertent harbinger of its downfall.
+
+</details>
 
 ## 2D Platformer Inspiration
 
@@ -144,9 +146,11 @@ The idea behind the enemies is that they are similar to a blob or a slimey thing
 </div>
 
 
-<details>
+
 ## Bosses Designs
 
+### Draft 1
+<details>
 The idea behind the boss designs is that they have multiple different colors to give an emotion that they are similar to a combination of all the enemies that they encountered
 
 <div style="text-align: center;">
