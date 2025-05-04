@@ -158,6 +158,15 @@ The idea behind the enemies is that they are similar to a blob or a slimey thing
 </div>
 </details>
 
+## Draft 2 
+
+The second draft of the enemies were based on the inspiration of military personel in uniform.
+
+<details>
+
+
+</details>
+
 ## Bosses Designs
 
 ### Draft 1
