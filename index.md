@@ -138,11 +138,15 @@ The intial designs were done using Procreate
 
 ## Character Design
 
-The character was developed with the idea that the person was a traveler.
+The character was developed with the idea that the person was a traveler. The details tab below includes the draft design.
+
+<details>
 
 <div style="text-align: center;">
     <img width="300px" class="rounded float-start pe-4" src="/progress_pics/character_colored_in.png">
 </div>
+
+</details>
 
 ## Enemies Designs
 
