@@ -100,24 +100,6 @@ With the inspiration of flowers, this led to the consideration of context to be 
 
 </div>
 
-## Level Design 
-
-As the player progresses through the levels there are obstacles that are necessary to overcome. Below is Level 1 and 2 seperately in the details tab.
-
-<details>
-<div style="text-align: center;">
-
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_1.png">
-
-</div>
-
-<div style="text-align: center;">
-
-<img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_2.jpeg">
-
-</div>
-</details>
-
 ## Background Design 
 
 There were several backgrounds created each made up of several layers. Additional layers were used to create differences in the scences. In the images in the details section contain examples of the possible scenes that could be made with the layers.
@@ -136,7 +118,30 @@ There were several backgrounds created each made up of several layers. Additiona
 
 </details>
 
-The final designs were created with pixel art, aesprite software.
+The final designs were created as pixel art
+
+<div style="text-align: center;">
+
+<img width="300px" class="rounded float-start pe-4" src="/final_pics/background.png">
+</div>
+
+## Level Design 
+
+As the player progresses through the levels there are obstacles that are necessary to overcome. Below is Level 1 and 2 seperately in the details tab.
+
+<details>
+<div style="text-align: center;">
+
+<img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_1.png">
+
+</div>
+
+<div style="text-align: center;">
+
+<img width="300px" class="rounded float-start pe-4" src="/progress_pics/level_2.jpeg">
+
+</div>
+</details>
 
 
 # Asset Creation
