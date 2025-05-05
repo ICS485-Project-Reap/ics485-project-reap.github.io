@@ -158,7 +158,7 @@ The character was developed with the idea that the person was a traveler. The de
 The character designs were then translated to pixel art. 
 
 <div style="text-align: center;">
-    <img width="300px" class="rounded float-start pe-4" src="/final_pics/player_sprite.png">
+    <img width="500px" class="rounded float-start pe-4" src="/final_pics/player_sprite.png">
 </div>
 
 ## Enemies Designs Draft
