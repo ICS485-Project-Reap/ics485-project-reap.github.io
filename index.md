@@ -178,7 +178,7 @@ The idea behind the enemies is that they are similar to a blob or a slimey thing
 The final game sprites were completed with the inspiration of soldiers being the enemies. 
 
 <div style="text-align: center;">
-    <img width="300px" class="rounded float-start pe-4" src="/final_pics/enemy_sprite.png">
+    <img width="500px" class="rounded float-start pe-4" src="/final_pics/enemy_sprite.png">
 </div>
 
 
@@ -223,7 +223,7 @@ Below is the Sprite sheet for the animation of the Attack
 
 <div style="text-align: center;">
 
-<img width="300px" class="rounded float-start pe-4" src="/final_pics/attack_sprite.png">
+<img width="500px" class="rounded float-start pe-4" src="/final_pics/attack_sprite.png">
 
 </div>
 
