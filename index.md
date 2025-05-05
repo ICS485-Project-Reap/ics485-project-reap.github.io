@@ -256,6 +256,10 @@ This is the flow state in the Sprite version.
 
 </div>
 
+## Flow State Initiate
+
+The flow state can be activated after killing 5 enemies. There were sprites created to show when the flow state as is activated
+
 
 
 # Project Management
