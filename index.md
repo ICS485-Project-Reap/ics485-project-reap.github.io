@@ -118,7 +118,7 @@ There were several backgrounds created each made up of several layers. Additiona
 
 </details>
 
-The final designs were created as pixel art
+The final designs were created as pixel art and then layered throughout the scene
 
 <div style="text-align: center;">
 
