@@ -260,6 +260,13 @@ This is the flow state in the Sprite version.
 
 The flow state can be activated after killing 5 enemies. There were sprites created to show when the flow state as is activated
 
+<div style="text-align: center;">
+
+<img width="500px" class="rounded float-start pe-4" src="/final_pics/flow_state_bar.png">
+
+</div>
+
+
 
 
 # Project Management
