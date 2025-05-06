@@ -118,7 +118,7 @@ There were several backgrounds created each made up of several layers. Additiona
 
 </details>
 
-The final designs were created as pixel art and then layered throughout the scene
+The final designs were created as pixel art and then layered throughout the scene.
 
 <div style="text-align: center;">
 
@@ -147,7 +147,7 @@ As the player progresses through the levels there are obstacles that are necessa
 
 <div style="text-align: center;">
 
-<img width="300px" class="rounded float-start pe-4" src="/final_pics/level_design.png">
+<img width="500px" class="rounded float-start pe-4" src="/final_pics/level_design.png">
 
 </div>
 
