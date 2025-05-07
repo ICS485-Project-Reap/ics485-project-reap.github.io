@@ -335,37 +335,38 @@ Note: GitHub Markdown does not support playing videos directly, so feel free to 
 Everyone contributed when needed to help revise ideas but the leads for each portion are below:
 
 ### Kurt Kimura
-- Character Design
+- Character design
 - Player movement
 - Flow state code
 - Sprite for character
-- Revision of Enemies and Boss Designs
+- Revision of enemies and noss Designs
 - Sprites of character, enemies, and boss
 - Final version of background
 - Implement Sound
 - Title Screen Implementation
 
 ### Amanda Nitta
-- Character Colors 
-- Background Designs draft
-- Flow State Launch backend code
-- Update Website
-- Enemies and Boss Designs
+- Character colors 
+- Background designs draft
+- Flow state launch backend code
+- Update website
+- Enemies and boss designs
 - Player character stats code
 - Health recovery backend code
-- Find Sound Effects
-- Title Screen Design
+- Find sound effects
+- Title screen design
 - Upload game to itch.io
 
 ### Lloyd Sanderson
-- Level Design
+- Level design
 - Story creation
 - Enemies movement code
 - Flow state UI 
-- Player Health UI
-- Enemies Stat
+- Player sealth UI
+- Enemies health UI
+- Enemies stat
 - Enemies inspiration
-- Find Sound Effects
+- Find sound effects
 
 # Future Work
 
