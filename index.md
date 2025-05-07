@@ -368,9 +368,6 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Enemies inspiration
 - Find sound effects
 
-# Future Work
-
-
 
 ## Team:
 - [Kurt Kimura](https://kurtkimura02.github.io/)  (Senior ICS Student)
