@@ -14,7 +14,9 @@
 ## Game Demo
 Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or the link.
 
-(ADD VIDEO HERE)
+[Link to Prototype](https://youtu.be/B6985GeqAis)
+
+[![Watch the video](final_pics/title_screen.png)](https://youtu.be/B6985GeqAis)
 
 # Inital Ideas
 
@@ -217,6 +219,12 @@ The idea behind the boss designs is that they have multiple different colors to 
 ## Final Boss Sprite
 These designs were inspired by military Lieuteants. 
 
+<div style="text-align: center;">
+
+<img width="500px" class="rounded float-start pe-4" src="/final_pics/boss_sprites.png">
+
+</div>
+
 
 
 ## Attack Options
@@ -277,6 +285,29 @@ The flow state can be activated after killing 5 enemies. There were sprites crea
 </div>
 
 
+## Title Screen 
+
+Design
+
+<details>
+The intial title screen was drafted in Powerpoint. 
+
+<div style="text-align: center;">
+
+<img width="500px" class="rounded float-start pe-4" src="/progress_pics/draft_title_screen.png">
+
+</div>
+
+</details>
+
+The final title screen was implemented in Sprite
+
+<div style="text-align: center;">
+
+<img width="500px" class="rounded float-start pe-4" src="/final_pics/title_screen.png">
+
+</div>
+
 
 
 # Project Management
@@ -315,6 +346,7 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Player character stats code
 - Health recovery backend code
 - Find Sound Effects
+- Title Screen Design
 - Upload game to itch.io
 
 ### Lloyd Sanderson
