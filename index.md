@@ -303,6 +303,7 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Sprites of character, enemies, and boss
 - Final version of background
 - Implement Sound
+- Title Screen Implementation
 
 ### Amanda Nitta
 - Character Colors 
@@ -313,6 +314,7 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Player character stats code
 - Health recovery backend code
 - Find Sound Effects
+- Upload game to itch.io
 
 ### Lloyd Sanderson
 - Level Design
