@@ -12,6 +12,7 @@
 # [Project REAP on itch.io](https://amandanitta.itch.io/project-reap)
 
 ## Game Demo
+Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or the link.
 
 (ADD VIDEO HERE)
 
