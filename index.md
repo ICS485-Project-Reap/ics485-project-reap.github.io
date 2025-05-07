@@ -9,7 +9,9 @@
 * [Game](#game)
 * [Future Work](#future-work)
 
-# Project REAP
+# [Project REAP on itch.io](https://amandanitta.itch.io/project-reap)
+
+## Game Demo
 
 (ADD VIDEO HERE)
 
@@ -195,9 +197,8 @@ The final game sprites were completed with the inspiration of soldiers being the
 </div>
 
 
-## Bosses Designs
 
-### Draft 1
+## Boss Designs Draft
 
 The design of these drafts were based on simple enemies.
 
@@ -212,7 +213,7 @@ The idea behind the boss designs is that they have multiple different colors to 
 
 </details>
 
-### Draft 2
+## Final Boss Sprite
 These designs were inspired by military Lieuteants. 
 
 
@@ -282,10 +283,9 @@ The flow state can be activated after killing 5 enemies. There were sprites crea
 All communication was on discord and meetings were once a week to assign tasks. The [Trello Board](https://trello.com/b/PGbFmQW9/game-design-spring-2025) was used to keep a record of overall progress.
 
 
-# Game
+# Prototype of Game
 Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or the link.
 
-## Prototype of Game
 [Link to Prototype](https://www.youtube.com/watch?v=d15Y0lfNLT4)
 
 [![Watch the video](progress_pics/Cherry_Blossoms_thumbnail.png)](https://www.youtube.com/watch?v=d15Y0lfNLT4)
