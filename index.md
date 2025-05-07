@@ -1,4 +1,4 @@
-# REAP
+# Project REAP
 
 # Table of Contents
 * [Inital Ideas](#inital-ideas)
