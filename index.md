@@ -156,6 +156,14 @@ As the player progresses through the levels there are obstacles that are necessa
 
 </div>
 
+## Updated Level 1 Design
+
+<div style="text-align: center;">
+
+<img width="500px" class="rounded float-start pe-4" src="/final_pics/updated_level_design.png">
+
+</div>
+
 
 # Asset Creation
 
