@@ -355,7 +355,6 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Health recovery backend code
 - Find sound effects
 - Title screen design
-- Upload game to itch.io
 
 ### Lloyd Sanderson
 - Level design
