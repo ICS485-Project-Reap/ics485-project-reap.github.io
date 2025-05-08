@@ -1,6 +1,6 @@
 # Website for Project Reap 
 
-Deployed [ics485-project-reap.github.io](https://ics485-project-reap.github.io/)
+Deployed at [https://ics485-project-reap.github.io/](https://ics485-project-reap.github.io/)
 
 # Team
 - Kurt Kimura
