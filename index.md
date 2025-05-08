@@ -338,6 +338,10 @@ Note: GitHub Markdown does not support playing videos directly, so feel free to 
 
 [![Watch the video](progress_pics/Cherry_Blossoms_thumbnail.png)](https://www.youtube.com/watch?v=d15Y0lfNLT4)
 
+# Future Work
+- Incorporate more levels (e.g, level designs and backgrounds)
+- Create more boss functionality/ behavior
+
 
 ## Contributions
 Everyone contributed when needed to help revise ideas but the leads for each portion are below:
