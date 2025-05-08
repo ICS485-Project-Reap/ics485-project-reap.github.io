@@ -150,13 +150,21 @@ As the player progresses through the levels there are obstacles that are necessa
 
 ## Implemented Level 1 Design
 
+The level design was initally implemented based on the drawings.
+
+<details>
+
 <div style="text-align: center;">
 
 <img width="500px" class="rounded float-start pe-4" src="/final_pics/level_design.png">
 
 </div>
 
+</details>
+
 ## Updated Level 1 Design
+
+The level design was updated based on the game play.
 
 <div style="text-align: center;">
 
