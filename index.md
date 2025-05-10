@@ -328,7 +328,7 @@ The final title screen was implemented in Sprite
 
 # Project Management
 
-All communication was on discord and meetings were once a week to assign tasks. The [Trello Board](https://trello.com/b/PGbFmQW9/game-design-spring-2025) was used to keep a record of overall progress.
+All communication was on discord and meetings were once a week to assign tasks. The [Trello Board](https://trello.com/b/PGbFmQW9/game-design-spring-2025) was used to keep a record of overall progress. To ensure that all team members had the most up to date version as well as all chages **Unity Version Control** was used.
 
 
 # Prototype of Game
