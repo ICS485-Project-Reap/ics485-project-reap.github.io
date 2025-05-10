@@ -14,7 +14,7 @@
 ## Game Demo
 Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or the link.
 
-[Link to Final Game](https://youtu.be/7m-OzpLAVbg)
+[Link to Game Demo](https://youtu.be/7m-OzpLAVbg)
 
 [![Watch the video](final_pics/title_screen.png)](https://youtu.be/7m-OzpLAVbg)
 
