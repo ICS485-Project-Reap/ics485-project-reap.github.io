@@ -268,7 +268,7 @@ Below is the Sprite sheet for the animation of the Attack
 
 ## Flow State Attack
 
-The flow state attack is when the player gets a certain amount of point and then has the potential to activate. The flow state attack is similar to a special move that does more damage. The concept is shown in the details follwoed by the GIF of the motion.
+The flow state attack can be activated when the player achieves a certain amount of points by killing other enemies. The move has the potential to kill the enemies that are present in the scene as well as act as a stronger attack. The concept is shown in the details follwoed by the GIF of the motion.
 
 <details>
 
