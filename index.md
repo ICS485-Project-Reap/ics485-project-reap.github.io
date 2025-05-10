@@ -18,6 +18,8 @@ Note: GitHub Markdown does not support playing videos directly, so feel free to 
 
 [![Watch the video](final_pics/title_screen.png)](https://youtu.be/7m-OzpLAVbg)
 
+# (Link to Build)[https://drive.google.com/drive/folders/1sgWbmJlHMl5q4qpEPUIdAXb85pQ4GBvs]
+
 # Inital Ideas
 
 Initially, we all had came together with different ideas between an interactive story similar to Minecraft, a puzzle game of looking at diffent places and a 2D platformer. After our initial meeting, we had decided we could incorporate the main components of all our ideas into a 2D platformer. 
