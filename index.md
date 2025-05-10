@@ -14,11 +14,11 @@
 ## Game Demo
 Note: GitHub Markdown does not support playing videos directly, so feel free to either click the thumb nail for the video or the link.
 
+[Link to Build](https://drive.google.com/drive/folders/1sgWbmJlHMl5q4qpEPUIdAXb85pQ4GBvs)
+
 [Link to Game Demo](https://youtu.be/7m-OzpLAVbg)
 
 [![Watch the video](final_pics/title_screen.png)](https://youtu.be/7m-OzpLAVbg)
-
-## [Link to Build](https://drive.google.com/drive/folders/1sgWbmJlHMl5q4qpEPUIdAXb85pQ4GBvs)
 
 # Inital Ideas
 
