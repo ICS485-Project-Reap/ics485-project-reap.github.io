@@ -375,7 +375,7 @@ Everyone contributed when needed to help revise ideas but the leads for each por
 - Story creation
 - Enemies movement code
 - Flow state UI 
-- Player sealth UI
+- Player health UI
 - Enemies health UI
 - Enemies stat
 - Enemies inspiration
